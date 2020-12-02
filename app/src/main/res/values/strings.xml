@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">MindYourBubble</string>
+    <string name="header_text">Mind Your Bubble</string>
+
+    <string name="login_text">Login</string>
+    <string name="username">Username…</string>
+    <string name="password">Password…</string>
+    <string name="no_account">Not got an account?</string>
+    <string name="register_text">Register</string>
+    <string name="login_error">Incorrect Login Details</string>
+
+    <string name="full_name">Full Name…</string>
+    <string name="confirm_pass">Confirm Password…</string>
+    <string name="postcode">Postcode…</string>
+    <string name="register_error">Mismatching Passwords</string>
+
+    <string name="personal_info">Personal Info:</string>
+    <string name="sync_data">Sync Data:</string>
+    <string name="add_device">+ Add Device</string>
+    <string name="remove_device">x</string>
+    <string name="sync">Sync</string>
+    <string name="device_default">Fitbit:</string>
+    <string name="time_default">Last Updated: 2 days ago</string>
+    <string name="time_never">Last Updated: Never</string>
+    <string name="time_now">Last Updated: Just now</string>
+    <string name="household_info">Household Info:</string>
+    <string name="join_household">Join Household</string>
+    <string name="household_id">Enter Household ID</string>
+    <string name="join_text">Join</string>
+    <string name="create_household_text">Create Household</string>
+    <string name="household_postcode_text">Household Postcode</string>
+    <string name="household_name_text">Household ID</string>
+    <string name="leave_household_text">Leave Household</string>
+    <string name="social_text">Social Bubble:</string>
+    <string name="add_social">Add Person</string>
+
+    <string name="choose_device">Choose Device</string>
+    <string name="add_device_popup">+ Add</string>
+    <string name="household_name">Household Name…</string>
+    <string name="button_cancel">Cancel</string>
+
+    <string name="information">Information</string>
+    <string name="protection">
+        Additionally, COVID protection levels (sometimes known as tiers or tier system) set out measures that can be applied nationally or locally depending on the prevalence of the virus across Scotland.\n
+\nEach Area has a COVID protection level. There are 5 different levels starting from 0 to 4. The lowest level is 0 and the highest level is 4.\n
+\nYou can find more details of the rules of each tier below:\n
+    </string>
+    <string name="handwashing">
+        There are three simple ways we can all keep protecting each other:\n
+ \t- Wash your hands Regularly\n
+ \t- Wear a face covering in enclosed spaces\n
+ \t- Stay at least 2 meters apart - or 1 meter with a face \n\t\tcovering\n
+    </string>
+
+    <string name="Tier0">\t\t- <a href="https://www.gov.scot/publications/coronavirus-covid-19-protection-levels/pages/protection-level-0/">Tier 0</a></string>
+    <string name="Tier1">\t\t- <a href="https://www.gov.scot/publications/coronavirus-covid-19-protection-levels/pages/protection-level-1/">Tier 1</a></string>
+    <string name="Tier2">\t\t- <a href="https://www.gov.scot/publications/coronavirus-covid-19-protection-levels/pages/protection-level-2/">Tier 2</a></string>
+    <string name="Tier3">\t\t- <a href="https://www.gov.scot/publications/coronavirus-covid-19-protection-levels/pages/protection-level-3/">Tier 3</a></string>
+    <string name="Tier4">\t\t- <a href="https://www.gov.scot/publications/coronavirus-covid-19-protection-levels/pages/protection-level-4/">Tier 4</a></string>
+    <string name="TierMain">Find out what tier you\'re in </string>
+    <string name="here">\t<a href="https://www.gov.scot/publications/coronavirus-covid-19-protection-levels/">here</a>.</string>
+
+    <string name="lineLabel">Graph View</string>
+    <string name="bubbleLabel">Bubble View</string>
+    <string name="mapLabel">Map View</string>
+
+    <string name="nav_line">Line</string>
+    <string name="nav_bubble">Bubble</string>
+    <string name="nav_map">Map</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_info">Info</string>
+</resources>

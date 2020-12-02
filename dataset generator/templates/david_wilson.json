@@ -1,0 +1,330 @@
+{
+    "main_household": "Ha",
+    "interval": 30,
+    "households": [
+        {
+            "household": "Ha",
+            "postcode": "G82 2AZ",
+            "connections": [
+                "Hb",
+                "Hc",
+                "Hd"
+            ],
+            "other_connections": 0,
+            "members": [
+                {
+                    "name": "David Wilson",
+                    "username": "WeeDavey",
+                    "start_time": "Jun 1 2020  12:00PM",
+                    "end_time": "Jul 1 2020  12:00PM",
+                    "heart_rate": {
+                        "average_lower": 60,
+                        "average_upper": 100,
+                        "variability_lower": 7,
+                        "variability_upper": 13
+                    },
+                    "skin_temp": {
+                        "average_lower": 35.3,
+                        "average_upper": 36.0,
+                        "variability_lower": 0.2,
+                        "variability_upper": 0.6
+                    },
+                    "respiratory_rate": {
+                        "average_lower": 13,
+                        "average_upper": 17,
+                        "variability_lower": 1,
+                        "variability_upper": 2
+                    },
+                    "sleep": {
+                        "average_lower": 5,
+                        "average_upper": 9,
+                        "variability_lower": 0.5,
+                        "variability_upper": 1.5,
+                        "average_onset_lower": 15,
+                        "average_onset_upper": 45,
+                        "variability_onset_lower": 6,
+                        "variability_onset_upper": 10,
+                        "awakenings_upper": 4
+                    }
+                },
+                {
+                    "name": "Luke Cooper",
+                    "username": "LookLukeC",
+                    "start_time": "Jun 1 2020  12:00PM",
+                    "end_time": "Jul 1 2020  12:00PM",
+                    "heart_rate": {
+                        "average_lower": 60,
+                        "average_upper": 100,
+                        "variability_lower": 7,
+                        "variability_upper": 13
+                    },
+                    "skin_temp": {
+                        "average_lower": 35.3,
+                        "average_upper": 36.0,
+                        "variability_lower": 0.2,
+                        "variability_upper": 0.6
+                    },
+                    "respiratory_rate": {
+                        "average_lower": 13,
+                        "average_upper": 17,
+                        "variability_lower": 1,
+                        "variability_upper": 2
+                    },
+                    "sleep": {
+                        "average_lower": 5,
+                        "average_upper": 9,
+                        "variability_lower": 0.5,
+                        "variability_upper": 1.5,
+                        "average_onset_lower": 15,
+                        "average_onset_upper": 45,
+                        "variability_onset_lower": 6,
+                        "variability_onset_upper": 10,
+                        "awakenings_upper": 4
+                    }
+                }
+            ]
+        },
+        {
+            "household": "Hb",
+            "postcode": "G41 3DE",
+            "connections": [
+                "Ha",
+                "Hd"
+            ],
+            "other_connections": 2,
+            "members": [
+                {
+                    "name": "Bryan Ackers",
+                    "username": "Backerz",
+                    "start_time": "Jun 1 2020  12:00PM",
+                    "end_time": "Jul 1 2020  12:00PM",
+                    "heart_rate": {
+                        "average_lower": 60,
+                        "average_upper": 100,
+                        "variability_lower": 7,
+                        "variability_upper": 13
+                    },
+                    "skin_temp": {
+                        "average_lower": 37.1,
+                        "average_upper": 37.4,
+                        "variability_lower": 0.2,
+                        "variability_upper": 0.6
+                    },
+                    "respiratory_rate": {
+                        "average_lower": 13,
+                        "average_upper": 17,
+                        "variability_lower": 1,
+                        "variability_upper": 2
+                    },
+                    "sleep": {
+                        "average_lower": 5,
+                        "average_upper": 9,
+                        "variability_lower": 0.5,
+                        "variability_upper": 1.5,
+                        "average_onset_lower": 15,
+                        "average_onset_upper": 45,
+                        "variability_onset_lower": 6,
+                        "variability_onset_upper": 10,
+                        "awakenings_upper": 4
+                    }
+                },
+                {
+                    "name": "Alex Dodd",
+                    "username": "DoddIsOdd",
+                    "start_time": "Jun 1 2020  12:00PM",
+                    "end_time": "Jul 1 2020  12:00PM",
+                    "heart_rate": {
+                        "average_lower": 60,
+                        "average_upper": 100,
+                        "variability_lower": 7,
+                        "variability_upper": 13
+                    },
+                    "skin_temp": {
+                        "average_lower": 37.1,
+                        "average_upper": 37.4,
+                        "variability_lower": 0.2,
+                        "variability_upper": 0.6
+                    },
+                    "respiratory_rate": {
+                        "average_lower": 13,
+                        "average_upper": 17,
+                        "variability_lower": 1,
+                        "variability_upper": 2
+                    },
+                    "sleep": {
+                        "average_lower": 5,
+                        "average_upper": 9,
+                        "variability_lower": 0.5,
+                        "variability_upper": 1.5,
+                        "average_onset_lower": 15,
+                        "average_onset_upper": 45,
+                        "variability_onset_lower": 6,
+                        "variability_onset_upper": 10,
+                        "awakenings_upper": 4
+                    }
+                },
+                {
+                    "name": "Daniel Ackers-Dodd",
+                    "username": "DaNAK",
+                    "start_time": "Jun 1 2020  12:00PM",
+                    "end_time": "Jul 1 2020  12:00PM",
+                    "heart_rate": {
+                        "average_lower": 60,
+                        "average_upper": 100,
+                        "variability_lower": 7,
+                        "variability_upper": 13
+                    },
+                    "skin_temp": {
+                        "average_lower": 37.1,
+                        "average_upper": 37.4,
+                        "variability_lower": 0.2,
+                        "variability_upper": 0.6
+                    },
+                    "respiratory_rate": {
+                        "average_lower": 13,
+                        "average_upper": 17,
+                        "variability_lower": 1,
+                        "variability_upper": 2
+                    },
+                    "sleep": {
+                        "average_lower": 5,
+                        "average_upper": 9,
+                        "variability_lower": 0.5,
+                        "variability_upper": 1.5,
+                        "average_onset_lower": 15,
+                        "average_onset_upper": 45,
+                        "variability_onset_lower": 6,
+                        "variability_onset_upper": 10,
+                        "awakenings_upper": 4
+                    }
+                },
+                {
+                    "name": "Ruby Ackers-Dodd",
+                    "username": "RubyRosedd",
+                    "start_time": "Jun 1 2020  12:00PM",
+                    "end_time": "Jul 1 2020  12:00PM",
+                    "heart_rate": {
+                        "average_lower": 60,
+                        "average_upper": 100,
+                        "variability_lower": 7,
+                        "variability_upper": 13
+                    },
+                    "skin_temp": {
+                        "average_lower": 37.1,
+                        "average_upper": 37.4,
+                        "variability_lower": 0.2,
+                        "variability_upper": 0.6
+                    },
+                    "respiratory_rate": {
+                        "average_lower": 13,
+                        "average_upper": 17,
+                        "variability_lower": 1,
+                        "variability_upper": 2
+                    },
+                    "sleep": {
+                        "average_lower": 5,
+                        "average_upper": 9,
+                        "variability_lower": 0.5,
+                        "variability_upper": 1.5,
+                        "average_onset_lower": 15,
+                        "average_onset_upper": 45,
+                        "variability_onset_lower": 6,
+                        "variability_onset_upper": 10,
+                        "awakenings_upper": 4
+                    }
+                }
+            ]
+        },
+        {
+            "household": "Hc",
+            "postcode": "G12 9ES",
+            "connections": [
+                "Ha"
+            ],
+            "other_connections": 0,
+            "members": [
+                {
+                    "name": "Ashe Kirby",
+                    "username": "EpicYashern",
+                    "start_time": "Jun 1 2020  12:00PM",
+                    "end_time": "Jul 1 2020  12:00PM",
+                    "heart_rate": {
+                        "average_lower": 60,
+                        "average_upper": 100,
+                        "variability_lower": 7,
+                        "variability_upper": 13
+                    },
+                    "skin_temp": {
+                        "average_lower": 37.9,
+                        "average_upper": 38.1,
+                        "variability_lower": 0.1,
+                        "variability_upper": 0.2
+                    },
+                    "respiratory_rate": {
+                        "average_lower": 13,
+                        "average_upper": 17,
+                        "variability_lower": 1,
+                        "variability_upper": 2
+                    },
+                    "sleep": {
+                        "average_lower": 5,
+                        "average_upper": 9,
+                        "variability_lower": 0.5,
+                        "variability_upper": 1.5,
+                        "average_onset_lower": 15,
+                        "average_onset_upper": 45,
+                        "variability_onset_lower": 6,
+                        "variability_onset_upper": 10,
+                        "awakenings_upper": 4
+                    }
+                }
+            ]
+        },
+        {
+            "household": "Hd",
+            "postcode": "G75 0LL",
+            "connections": [
+                "Ha",
+                "Hb"
+            ],
+            "other_connections": 1,
+            "members": [
+                {
+                    "name": "Bilbo Baggins",
+                    "username": "Elf-friend",
+                    "start_time": "Jun 1 2020  12:00PM",
+                    "end_time": "Jul 1 2020  12:00PM",
+                    "heart_rate": {
+                        "average_lower": 60,
+                        "average_upper": 100,
+                        "variability_lower": 7,
+                        "variability_upper": 13
+                    },
+                    "skin_temp": {
+                        "average_lower": 35.3,
+                        "average_upper": 36.0,
+                        "variability_lower": 0.2,
+                        "variability_upper": 0.6
+                    },
+                    "respiratory_rate": {
+                        "average_lower": 13,
+                        "average_upper": 17,
+                        "variability_lower": 1,
+                        "variability_upper": 2
+                    },
+                    "sleep": {
+                        "average_lower": 5,
+                        "average_upper": 9,
+                        "variability_lower": 0.5,
+                        "variability_upper": 1.5,
+                        "average_onset_lower": 15,
+                        "average_onset_upper": 45,
+                        "variability_onset_lower": 6,
+                        "variability_onset_upper": 10,
+                        "awakenings_upper": 4
+                    }
+                }
+            ]
+        }
+    ]
+}

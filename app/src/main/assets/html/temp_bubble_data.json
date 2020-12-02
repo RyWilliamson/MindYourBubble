@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Ha",
+    "avg_temp": 36.5,
+    "visible_people": [
+      { "name": "Pa1", "temp": 36.0 },
+      { "name": "Pa2", "temp": 37.0 }
+    ],
+    "known_links": ["Hb", "Hc", "Hd"],
+    "other_links": 0
+  },
+  {
+    "name": "Hb",
+    "avg_temp": 37.0,
+    "visible_people": [
+      { "name": "Pb1", "temp": 36.8 },
+      { "name": "Pb2", "temp": 36.9 },
+      { "name": "Pb3", "temp": 36.9 },
+      { "name": "Pb4", "temp": 36.9 },
+      { "name": "Pb5", "temp": 36.9 },
+      { "name": "Pb6", "temp": 36.9 },
+      { "name": "Pb7", "temp": 36.9 },
+      { "name": "Pb8", "temp": 36.9 }
+    ],
+    "known_links": ["Ha", "Hd"],
+    "other_links": 2
+  },
+  {
+    "name": "Hc",
+    "avg_temp": 37.5,
+    "visible_people": [{ "name": "Pc", "temp": 37.3 }],
+    "known_links": ["Ha"],
+    "other_links": 0
+  },
+  {
+    "name": "Hd",
+    "avg_temp": 36.8,
+    "visible_people": [{ "name": "Pd", "temp": 36.8 }],
+    "known_links": ["Hb"],
+    "other_links": 1
+  }
+]

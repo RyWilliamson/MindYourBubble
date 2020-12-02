@@ -1,0 +1,37 @@
+{
+    "name": "Alex Jenkins",
+    "postcode": "G42 AD",
+    "username": "AJMan14",
+    "interval": 30,
+    "start_time": "Jun 1 2020  12:00PM",
+    "end_time": "Jul 1 2020  12:00PM",
+    "heart_rate": {
+        "average_lower": 60,
+        "average_upper": 100,
+        "variability_lower": 7,
+        "variability_upper": 13
+    },
+    "skin_temp": {
+        "average_lower": 35.3,
+        "average_upper": 36.0,
+        "variability_lower": 0.2,
+        "variability_upper": 0.6
+    },
+    "respiratory_rate": {
+        "average_lower": 13,
+        "average_upper": 17,
+        "variability_lower": 1,
+        "variability_upper": 2
+    },
+    "sleep": {
+        "average_lower": 5,
+        "average_upper": 9,
+        "variability_lower": 0.5,
+        "variability_upper": 1.5,
+        "average_onset_lower": 15,
+        "average_onset_upper": 45,
+        "variability_onset_lower": 6,
+        "variability_onset_upper": 10,
+        "awakenings_upper": 4
+    }
+}

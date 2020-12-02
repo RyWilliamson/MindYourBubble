@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/profile"
+        android:enabled="true"
+        android:icon="@drawable/ic_profile"
+        android:title="@string/nav_profile"/>
+
+    <item
+        android:id="@+id/info"
+        android:enabled="true"
+        android:icon="@drawable/ic_info"
+        android:title="@string/nav_info"/>
+
+    <item
+        android:id="@+id/line"
+        android:enabled="true"
+        android:icon="@drawable/ic_stats"
+        android:title="@string/nav_line"/>
+
+    <item
+        android:id="@+id/bubble"
+        android:enabled="true"
+        android:icon="@drawable/ic_bubble"
+        android:title="@string/nav_bubble"/>
+
+    <item
+        android:id="@+id/map"
+        android:enabled="true"
+        android:icon="@drawable/ic_map"
+        android:title="@string/nav_map"/>
+</menu>

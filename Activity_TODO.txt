@@ -1,0 +1,71 @@
+Activities Design
+ - Every Page
+   - Mind Your Bubble (Text View - Header style)
+   - Nav bar (Not sure components yet) (Except on login and register)
+     - Stats drop-down menu contains buttons to Map View, Bubble View, Graph View (if time)
+ - Login
+   - Login (Text View)
+   - Username (Plaintext Field)
+   - Password (Password Field)
+   - Login (Button) - Moves to profile page
+   - Register (Button) - Moves to register page
+ - Register
+   - Register (Text View)
+   - Full name (Plaintext Field)
+   - Username (Plaintext Field)
+   - Password (Password Field)
+   - Confirm Password (Password Field)
+   - PostCode (Plaintext Field)
+   - Register (Button) - Moves to profile page
+ - Profile / Sync page
+   - Personal Info Section
+     - Personal Info (Text View)
+     - Info here tbd
+   - Sync Section
+     - State: no device added
+       - Add Device (Button) - Popup with device selection, goto state device added
+     - State: device added
+       - Device name (Text View)
+       - Last updated (Text View)
+       - Sync (Button) - Popup for syncing then sync complete
+       - Remove device (Button) - goto state no device added
+   - Household Area
+     - Note: Create / join household via code (like old social bubble idea on wireframes)
+     - State: Not in household
+       - Join household (Text View)
+       - Enter household code (Text Field)
+       - Join (Button) - goto state in household
+       - Create Household (Button) - Moves to Create Household page
+     - State: In Household
+       - Household Code (Text View)
+       - List of people in household (List of Text View)
+       - Leave household (Button) - goto state not in household
+   - Social Bubble Area
+     - Add person (Button) - popup to enter username to send request
+     - List of people - has x button next to each for easy removal
+ - Create household page
+   - Create Bubble (Text View)
+   - Enter bubble name (Plaintext)
+   - Get rid of max people since that doesn't seem necessary anymore?
+   - Create (Button) - Takes you back to Profile page - state in household
+   - Cancel (Button) - Takes you back to Profile page - state not in household
+ - Info page
+   - Information (Text View)
+   - General
+     - General Header (Text View)
+     - General Info (Text View)
+     - General Link (Text View)
+   - Bubbles
+     - Bubbles Header (Text View)
+     - Bubbles Info (Text View)
+     - Bubbles Link (Text View)
+   - Test and Trace
+     - Test and Trace Header (Text View)
+     - Test and Trace Info (Text View)
+     - Test and Trace Link (Text View)
+ - Map Page
+   - Map View (Text View)
+   - Map Vis (Fragment)
+ - Bubble Page
+   - Connections (Text View)
+   - Bubble Vis (Fragment)
